@@ -1,0 +1,36 @@
+01/02/24
+Problem solving: 
+To solve complex problems we need to breaking them into smaller parts
+starting by writing steps in simple english.
+
+Example: measuring water with the help of two odd containers
+We only have two bottles, 3 liter bottle and a 5 liter bottle
+Tasks: measure 2 liter of water, measure 1 liter of water, measure 4 liters of water
+Rules: we have as much water as we need and we may fill and pour any bottle into any other bottle or drain a bottle entirely
+ as many times as needed
+    The next task is to measure 4 liters of water.
+        Fill the 3 liter bottle with water. 
+        1.Pour water from the 3 liter bottle two times to fill the 5 liter bottle
+        2.Save the remaining 1 liter of water in the 3 liter bottle
+        3.Drain entirely the 5 liter bottle of water.
+        4.Pour the remaining 1 liter of  water into the empty 5 liter bottle.
+        5.Fill the 3 liter bottle 
+        6.Pour water from the 3 liter bottle to the 5 liter bottle
+        The remaining water in the 5 liter bottle are 4 liters
+
+Program: A program is a set of instructions to solve a problem.
+Variable: Is a quantity that may change within the context of a problem or solution
+
+The process of problem solving
+The four stages of problem solving:
+    1. Analyze: Understand the available resources and constraints of a problem
+    2. Plan: Write the steps that solve the problem in the form of program. 
+        This is the plan of action that will solve the problem
+    3. Implement: Execute a computer program to obtain results
+    4. Evaluate: Match the results of the program with the desired output to determine success
+
+    ANALIZE -> PLAN -> IMPLEMENT -> EVALUATE
+
+
+
+
