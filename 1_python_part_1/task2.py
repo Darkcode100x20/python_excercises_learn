@@ -26,7 +26,7 @@ def set_to_dict(dict_to_update: Dict[str, int], **items_to_set) -> Dict[str,int]
         # if the key already exists in dict_to_update, its value is replaced with value
         # if the key does not exist in dict-to_update, a new key value is added to the dictionary
         dict_to_update[key] = value
-        
+    
     return dict_to_update
         
 print(set_to_dict({'a': 1, 'b': 2, 'c': 3}, a=0, b=4))  # only b updated because new value for a less then original value
