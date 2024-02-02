@@ -31,6 +31,9 @@ The four stages of problem solving:
 
     ANALIZE -> PLAN -> IMPLEMENT -> EVALUATE
 
+    -Use simple language
+    
+
 
 
 

@@ -1,0 +1,5 @@
+# file contains following lines:
+        10
+        -2
+        0
+        34
