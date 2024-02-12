@@ -18,6 +18,26 @@ Examples:
 
 
 def read_numbers(n: int) -> str:
-    ...
+    total = 0
+    count = 0
+    
+    for _ in range(n):
+        try:
+            # Read input and try to convert it to a float
+            value = input("Enter a number: ")
+            num = float(value)
+            total += num
+            count += 1
+        except ValueError:
+            # If conversion to float fails, ignore the input
+            continue
+    
+    if count > 0:
+        # If there are valid numbers, calculate the average
+        avg = total / count
+        return f"Avg: {avg:.2f}"
+    else:
+        # If no valid numbers were entered
+        return "No numbers entered"
 
 
